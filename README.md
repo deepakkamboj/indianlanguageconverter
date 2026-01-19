@@ -4,7 +4,7 @@
 [![React](https://img.shields.io/badge/React-19.2.3-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.0-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![License](https://img.shields.io/badge/License-GPL-blue?style=for-the-badge)](./COPYING)
+[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](./LICENSE)
 [![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-Live-success?style=for-the-badge&logo=github)](https://github.com/pages)
 
 A comprehensive web application for converting text between various Indian language fonts and Unicode formats. Built with Next.js 16 and modern web technologies.
@@ -129,7 +129,9 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📄 License
 
-This project is licensed under the GNU General Public License - see the [COPYING](./COPYING) file for details.
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+
+Original font conversion algorithms are also covered under GNU General Public License v2.
 
 ## 🙏 Acknowledgments
 

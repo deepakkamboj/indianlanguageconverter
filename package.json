@@ -2,6 +2,8 @@
   "name": "indian-language-converter-app",
   "version": "0.1.0",
   "private": true,
+  "author": "Deepak Kamboj",
+  "license": "MIT",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
