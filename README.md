@@ -5,9 +5,11 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.0-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](./LICENSE)
-[![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-Live-success?style=for-the-badge&logo=github)](https://github.com/pages)
+[![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-Live-success?style=for-the-badge&logo=github)](https://deepakkamboj.github.io/indianlanguageconverter/)
 
 A comprehensive web application for converting text between various Indian language fonts and Unicode formats. Built with Next.js 16 and modern web technologies.
+
+**🌐 Live Demo:** [https://deepakkamboj.github.io/indianlanguageconverter/](https://deepakkamboj.github.io/indianlanguageconverter/)
 
 ## ✨ Features
 
@@ -46,8 +48,8 @@ A comprehensive web application for converting text between various Indian langu
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/IndianLanguageConverter.git
-cd IndianLanguageConverter/indian-language-converter-app
+git clone https://github.com/deepakkamboj/indianlanguageconverter.git
+cd indianlanguageconverter
 
 # Install dependencies
 npm install
@@ -99,7 +101,7 @@ This project is configured for automatic deployment to GitHub Pages:
 
 1. Push to `main` branch
 2. GitHub Actions builds and deploys automatically
-3. Live at `https://yourusername.github.io/IndianLanguageConverter/`
+3. Live at `https://deepakkamboj.github.io/indianlanguageconverter/`
 
 See [DEPLOYMENT.md](./DEPLOYMENT.md) for detailed instructions.
 
@@ -141,8 +143,10 @@ Original font conversion algorithms are also covered under GNU General Public Li
 
 ## 📞 Support
 
-For issues and questions, please use the [GitHub Issues](https://github.com/yourusername/IndianLanguageConverter/issues) page.
+For issues and questions, please use the [GitHub Issues](https://github.com/deepakkamboj/indianlanguageconverter/issues) page.
 
 ---
+
+**Live App:** [https://deepakkamboj.github.io/indianlanguageconverter/](https://deepakkamboj.github.io/indianlanguageconverter/)
 
 Made with ❤️ for Indian language users
