@@ -45,6 +45,9 @@ jobs:
       - name: Install dependencies
         run: npm install
 
+      - name: Remove next.config.js if exists
+        run: rm -f next.config.js
+        
       - name: Build with Next.js
         run: npm run build
         env:
