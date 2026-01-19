@@ -49,6 +49,8 @@ jobs:
         run: npm run build
         env:
           NEXT_PUBLIC_BASE_PATH: /IndianLanguageConverter
+      - name: List build output
+        run: ls -la
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
