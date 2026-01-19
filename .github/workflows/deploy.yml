@@ -51,7 +51,7 @@ jobs:
       - name: Build with Next.js
         run: npm run build
         env:
-          NEXT_PUBLIC_BASE_PATH: /IndianLanguageConverter
+          NEXT_PUBLIC_BASE_PATH: /indianlanguageconverter
       - name: List build output
         run: ls -la
 
