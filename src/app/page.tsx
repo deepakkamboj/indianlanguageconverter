@@ -69,13 +69,13 @@ export default function Home() {
           </p>
           <div className="flex gap-4 justify-center pt-4">
             <Link href="/converter">
-              <Button size="lg" className="gap-2">
+              <Button size="lg" className="gap-2 border-2 border-indigo-600 bg-indigo-600 hover:bg-indigo-700 hover:border-indigo-700">
                 Start Converting
                 <ArrowRight className="h-4 w-4" />
               </Button>
             </Link>
             <Link href="/docs">
-              <Button size="lg" variant="outline" className="gap-2">
+              <Button size="lg" variant="outline" className="gap-2 border-2 border-indigo-600 text-indigo-600 hover:bg-indigo-50">
                 <BookOpen className="h-4 w-4" />
                 Documentation
               </Button>
@@ -164,7 +164,7 @@ export default function Home() {
               No registration required, completely free to use.
             </p>
             <Link href="/converter">
-              <Button size="lg" className="gap-2">
+              <Button size="lg" className="gap-2 border-2 border-indigo-600 bg-indigo-600 hover:bg-indigo-700 hover:border-indigo-700">
                 Launch Converter
                 <ArrowRight className="h-4 w-4" />
               </Button>
