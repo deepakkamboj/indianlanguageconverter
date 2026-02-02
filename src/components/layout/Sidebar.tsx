@@ -2,20 +2,22 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { 
-  Home, 
-  Languages, 
-  BookOpen, 
+import {
+  Home,
+  Languages,
+  BookOpen,
   Info,
   PanelLeftClose,
   PanelLeft,
   Wrench,
- 
+
   Smile,
   LinkedinIcon,
   BoldIcon,
   MessageSquare,
-  FileText
+  FileText,
+  Code,
+  Video
 } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { Button } from "@/components/ui/button";
@@ -85,6 +87,16 @@ const toolsItems = [
     title: "LinkedIn Formatter",
     href: "/tools/linkedin-formatter",
     icon: LinkedinIcon,
+  },
+  {
+    title: "LinkedIn Video Downloader",
+    href: "/tools/linkedin-video-downloader",
+    icon: Video,
+  },
+  {
+    title: "JSON Viewer",
+    href: "/tools/json-viewer",
+    icon: Code,
   },
 ];
 
