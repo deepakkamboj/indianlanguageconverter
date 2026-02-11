@@ -25,9 +25,12 @@ export default function FontsPage() {
   const [loadedFonts, setLoadedFonts] = useState<Set<string>>(new Set());
   const { showToast } = useToast();
 
+  // Get base path for GitHub Pages
+  const basePath = process.env.NEXT_PUBLIC_BASE_PATH || '';
+
   // Load fonts from JSON
   useEffect(() => {
-    fetch("/fonts.json")
+    fetch(`${basePath}/fonts.json`)
       .then((res) => res.json())
       .then((data: Font[]) => {
         setFonts(data);
@@ -37,7 +40,7 @@ export default function FontsPage() {
         console.error("Failed to load fonts:", err);
         setLoading(false);
       });
-  }, []);
+  }, [basePath]);
 
   // Get unique categories
   const categories = useMemo(() => {
@@ -76,7 +79,7 @@ export default function FontsPage() {
 
     const fontFace = new FontFace(
       font.name,
-      `url("/fonts/${encodedPath}")`,
+      `url("${basePath}/fonts/${encodedPath}")`,
       { style: 'normal', weight: 'normal' }
     );
 
@@ -95,7 +98,7 @@ export default function FontsPage() {
       // Encode the font path to handle spaces and special characters
       const encodedPath = encodeURIComponent(font.path).replace(/%2F/g, '/');
 
-      const response = await fetch(`/fonts/${encodedPath}`);
+      const response = await fetch(`${basePath}/fonts/${encodedPath}`);
 
       if (!response.ok) {
         throw new Error(`Failed to fetch font: ${response.status}`);

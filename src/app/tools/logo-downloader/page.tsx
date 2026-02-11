@@ -20,9 +20,12 @@ export default function LogoDownloaderPage() {
   const [loading, setLoading] = useState(true);
   const { showToast } = useToast();
 
+  // Get base path for GitHub Pages
+  const basePath = process.env.NEXT_PUBLIC_BASE_PATH || '';
+
   // Load logos from JSON
   useEffect(() => {
-    fetch("/logos.json")
+    fetch(`${basePath}/logos.json`)
       .then((res) => res.json())
       .then((data) => {
         setLogos(data);
@@ -32,7 +35,7 @@ export default function LogoDownloaderPage() {
         console.error("Failed to load logos:", err);
         setLoading(false);
       });
-  }, []);
+  }, [basePath]);
 
   // Filter logos based on search query
   const filteredLogos = useMemo(() => {
@@ -49,7 +52,7 @@ export default function LogoDownloaderPage() {
   // Download SVG file
   const handleDownload = async (filename: string) => {
     try {
-      const response = await fetch(`/logos/${filename}`);
+      const response = await fetch(`${basePath}/logos/${filename}`);
       const svgContent = await response.text();
       const blob = new Blob([svgContent], { type: "image/svg+xml" });
       const url = URL.createObjectURL(blob);
@@ -72,7 +75,7 @@ export default function LogoDownloaderPage() {
   // Copy SVG code to clipboard
   const handleCopySVG = async (filename: string) => {
     try {
-      const response = await fetch(`/logos/${filename}`);
+      const response = await fetch(`${basePath}/logos/${filename}`);
       const svgContent = await response.text();
       await navigator.clipboard.writeText(svgContent);
       showToast("SVG code copied to clipboard!");
@@ -134,7 +137,7 @@ export default function LogoDownloaderPage() {
                   {/* Logo Preview */}
                   <div className="flex items-center justify-center h-24 mb-3 bg-gray-50 rounded">
                     <img
-                      src={`/logos/${logo.files[0]}`}
+                      src={`${basePath}/logos/${logo.files[0]}`}
                       alt={logo.name}
                       className="max-w-full max-h-full object-contain p-2"
                       loading="lazy"
