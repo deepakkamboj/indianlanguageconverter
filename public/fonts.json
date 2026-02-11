@@ -1,0 +1,2666 @@
+[
+  {
+    "name": "Gilbert Bold Preview5",
+    "filename": "Gilbert-Bold Preview5.otf",
+    "path": "Color/Gilbert-Bold Preview5.otf",
+    "category": "Color",
+    "format": "OTF",
+    "size": 87500
+  },
+  {
+    "name": "Gilbert Color Bold Preview5",
+    "filename": "Gilbert-Color Bold Preview5.otf",
+    "path": "Color/Gilbert-Color Bold Preview5.otf",
+    "category": "Color",
+    "format": "OTF",
+    "size": 626352
+  },
+  {
+    "name": "Kalam Bold",
+    "filename": "Kalam-Bold.ttf",
+    "path": "Kalam/Kalam-Bold.ttf",
+    "category": "Devanagari",
+    "format": "TTF",
+    "size": 460872
+  },
+  {
+    "name": "Kalam Light",
+    "filename": "Kalam-Light.ttf",
+    "path": "Kalam/Kalam-Light.ttf",
+    "category": "Devanagari",
+    "format": "TTF",
+    "size": 437488
+  },
+  {
+    "name": "Kalam Regular",
+    "filename": "Kalam-Regular.ttf",
+    "path": "Kalam/Kalam-Regular.ttf",
+    "category": "Devanagari",
+    "format": "TTF",
+    "size": 427336
+  },
+  {
+    "name": "Tillana Bold",
+    "filename": "Tillana-Bold.ttf",
+    "path": "Tillana/Tillana-Bold.ttf",
+    "category": "Devanagari",
+    "format": "TTF",
+    "size": 305992
+  },
+  {
+    "name": "Tillana ExtraBold",
+    "filename": "Tillana-ExtraBold.ttf",
+    "path": "Tillana/Tillana-ExtraBold.ttf",
+    "category": "Devanagari",
+    "format": "TTF",
+    "size": 303528
+  },
+  {
+    "name": "Tillana Medium",
+    "filename": "Tillana-Medium.ttf",
+    "path": "Tillana/Tillana-Medium.ttf",
+    "category": "Devanagari",
+    "format": "TTF",
+    "size": 327284
+  },
+  {
+    "name": "Tillana Regular",
+    "filename": "Tillana-Regular.ttf",
+    "path": "Tillana/Tillana-Regular.ttf",
+    "category": "Devanagari",
+    "format": "TTF",
+    "size": 328412
+  },
+  {
+    "name": "Tillana SemiBold",
+    "filename": "Tillana-SemiBold.ttf",
+    "path": "Tillana/Tillana-SemiBold.ttf",
+    "category": "Devanagari",
+    "format": "TTF",
+    "size": 299056
+  },
+  {
+    "name": "AclGanpatiSymbols",
+    "filename": "AclGanpatiSymbols.ttf",
+    "path": "AclGanpatiSymbols.ttf",
+    "category": "English",
+    "format": "TTF",
+    "size": 28204
+  },
+  {
+    "name": "Agrandir GrandHeavy",
+    "filename": "Agrandir-GrandHeavy.otf",
+    "path": "Agrandir-GrandHeavy.otf",
+    "category": "English",
+    "format": "OTF",
+    "size": 53024
+  },
+  {
+    "name": "Agrandir GrandLight",
+    "filename": "Agrandir-GrandLight.otf",
+    "path": "Agrandir-GrandLight.otf",
+    "category": "English",
+    "format": "OTF",
+    "size": 51832
+  },
+  {
+    "name": "Agrandir Narrow",
+    "filename": "Agrandir-Narrow.otf",
+    "path": "Agrandir-Narrow.otf",
+    "category": "English",
+    "format": "OTF",
+    "size": 51248
+  },
+  {
+    "name": "Agrandir Regular",
+    "filename": "Agrandir-Regular.otf",
+    "path": "Agrandir-Regular.otf",
+    "category": "English",
+    "format": "OTF",
+    "size": 51160
+  },
+  {
+    "name": "Agrandir TextBold",
+    "filename": "Agrandir-TextBold.otf",
+    "path": "Agrandir-TextBold.otf",
+    "category": "English",
+    "format": "OTF",
+    "size": 53008
+  },
+  {
+    "name": "Agrandir ThinItalic",
+    "filename": "Agrandir-ThinItalic.otf",
+    "path": "Agrandir-ThinItalic.otf",
+    "category": "English",
+    "format": "OTF",
+    "size": 52372
+  },
+  {
+    "name": "Agrandir Tight",
+    "filename": "Agrandir-Tight.otf",
+    "path": "Agrandir-Tight.otf",
+    "category": "English",
+    "format": "OTF",
+    "size": 50596
+  },
+  {
+    "name": "Agrandir WideBlackItalic",
+    "filename": "Agrandir-WideBlackItalic.otf",
+    "path": "Agrandir-WideBlackItalic.otf",
+    "category": "English",
+    "format": "OTF",
+    "size": 51388
+  },
+  {
+    "name": "Agrandir WideLight",
+    "filename": "Agrandir-WideLight.otf",
+    "path": "Agrandir-WideLight.otf",
+    "category": "English",
+    "format": "OTF",
+    "size": 51600
+  },
+  {
+    "name": "ALHAD .TTF",
+    "filename": "ALHAD___.TTF",
+    "path": "ALHAD___.TTF",
+    "category": "English",
+    "format": "TTF",
+    "size": 20872
+  },
+  {
+    "name": "ALHAMBRA.TTF",
+    "filename": "ALHAMBRA.TTF",
+    "path": "ALHAMBRA.TTF",
+    "category": "English",
+    "format": "TTF",
+    "size": 20688
+  },
+  {
+    "name": "Anastasia Regular",
+    "filename": "Anastasia Regular.ttf",
+    "path": "Anastasia Regular.ttf",
+    "category": "English",
+    "format": "TTF",
+    "size": 56330
+  },
+  {
+    "name": "Artifika Regular",
+    "filename": "Artifika-Regular.ttf",
+    "path": "Artifika-Regular.ttf",
+    "category": "English",
+    "format": "TTF",
+    "size": 47352
+  },
+  {
+    "name": "AUBREY1 .TTF",
+    "filename": "AUBREY1__.TTF",
+    "path": "AUBREY1__.TTF",
+    "category": "English",
+    "format": "TTF",
+    "size": 26872
+  },
+  {
+    "name": "Bira PERSONAL USE ONLY",
+    "filename": "Bira_PERSONAL_USE_ONLY.ttf",
+    "path": "Bira_PERSONAL_USE_ONLY.ttf",
+    "category": "English",
+    "format": "TTF",
+    "size": 280684
+  },
+  {
+    "name": "bloodcrow",
+    "filename": "bloodcrow.ttf",
+    "path": "bloodcrow.ttf",
+    "category": "English",
+    "format": "TTF",
+    "size": 164320
+  },
+  {
+    "name": "bloodcrowc",
+    "filename": "bloodcrowc.ttf",
+    "path": "bloodcrowc.ttf",
+    "category": "English",
+    "format": "TTF",
+    "size": 160496
+  },
+  {
+    "name": "bloodcrowci",
+    "filename": "bloodcrowci.ttf",
+    "path": "bloodcrowci.ttf",
+    "category": "English",
+    "format": "TTF",
+    "size": 155100
+  },
+  {
+    "name": "bloodcrowe",
+    "filename": "bloodcrowe.ttf",
+    "path": "bloodcrowe.ttf",
+    "category": "English",
+    "format": "TTF",
+    "size": 165828
+  },
+  {
+    "name": "bloodcrowei",
+    "filename": "bloodcrowei.ttf",
+    "path": "bloodcrowei.ttf",
+    "category": "English",
+    "format": "TTF",
+    "size": 161676
+  },
+  {
+    "name": "bloodcrowi",
+    "filename": "bloodcrowi.ttf",
+    "path": "bloodcrowi.ttf",
+    "category": "English",
+    "format": "TTF",
+    "size": 148916
+  },
+  {
+    "name": "bloodcrowl",
+    "filename": "bloodcrowl.ttf",
+    "path": "bloodcrowl.ttf",
+    "category": "English",
+    "format": "TTF",
+    "size": 152456
+  },
+  {
+    "name": "bloodcrows",
+    "filename": "bloodcrows.ttf",
+    "path": "bloodcrows.ttf",
+    "category": "English",
+    "format": "TTF",
+    "size": 314116
+  },
+  {
+    "name": "bloodcrowsc",
+    "filename": "bloodcrowsc.ttf",
+    "path": "bloodcrowsc.ttf",
+    "category": "English",
+    "format": "TTF",
+    "size": 308752
+  },
+  {
+    "name": "bloodcrowsci",
+    "filename": "bloodcrowsci.ttf",
+    "path": "bloodcrowsci.ttf",
+    "category": "English",
+    "format": "TTF",
+    "size": 302040
+  },
+  {
+    "name": "bloodcrowsi",
+    "filename": "bloodcrowsi.ttf",
+    "path": "bloodcrowsi.ttf",
+    "category": "English",
+    "format": "TTF",
+    "size": 304596
+  },
+  {
+    "name": "Ccdiv XGro",
+    "filename": "Ccdiv-XGro.ttf",
+    "path": "Ccdiv-XGro.ttf",
+    "category": "English",
+    "format": "TTF",
+    "size": 6276
+  },
+  {
+    "name": "CornPop",
+    "filename": "CornPop.ttf",
+    "path": "CornPop.ttf",
+    "category": "English",
+    "format": "TTF",
+    "size": 278196
+  },
+  {
+    "name": "DamaskDings1",
+    "filename": "DamaskDings1.ttf",
+    "path": "DamaskDings1.ttf",
+    "category": "English",
+    "format": "TTF",
+    "size": 34496
+  },
+  {
+    "name": "DevinneSwash",
+    "filename": "DevinneSwash.ttf",
+    "path": "DevinneSwash.ttf",
+    "category": "English",
+    "format": "TTF",
+    "size": 50192
+  },
+  {
+    "name": "DevinneSwashShadow",
+    "filename": "DevinneSwashShadow.ttf",
+    "path": "DevinneSwashShadow.ttf",
+    "category": "English",
+    "format": "TTF",
+    "size": 105660
+  },
+  {
+    "name": "fa brands 400",
+    "filename": "fa-brands-400.ttf",
+    "path": "fa-brands-400.ttf",
+    "category": "English",
+    "format": "TTF",
+    "size": 129344
+  },
+  {
+    "name": "fa regular 400",
+    "filename": "fa-regular-400.ttf",
+    "path": "fa-regular-400.ttf",
+    "category": "English",
+    "format": "TTF",
+    "size": 34092
+  },
+  {
+    "name": "fa solid 900",
+    "filename": "fa-solid-900.ttf",
+    "path": "fa-solid-900.ttf",
+    "category": "English",
+    "format": "TTF",
+    "size": 186424
+  },
+  {
+    "name": "fontawesome webfont",
+    "filename": "fontawesome-webfont.ttf",
+    "path": "fontawesome-webfont.ttf",
+    "category": "English",
+    "format": "TTF",
+    "size": 152796
+  },
+  {
+    "name": "FreeRibbons",
+    "filename": "FreeRibbons.ttf",
+    "path": "FreeRibbons.ttf",
+    "category": "English",
+    "format": "TTF",
+    "size": 741204
+  },
+  {
+    "name": "Friedrichshain Regular",
+    "filename": "Friedrichshain-Regular.otf",
+    "path": "Friedrichshain-Regular.otf",
+    "category": "English",
+    "format": "OTF",
+    "size": 8008
+  },
+  {
+    "name": "Gilbert Bold Preview 1004",
+    "filename": "Gilbert Bold-Preview_1004.otf",
+    "path": "Gilbert Bold-Preview_1004.otf",
+    "category": "English",
+    "format": "OTF",
+    "size": 62760
+  },
+  {
+    "name": "Gilbert Color Bold Preview 1004",
+    "filename": "Gilbert-Color Bold-Preview_1004.otf",
+    "path": "Gilbert-Color Bold-Preview_1004.otf",
+    "category": "English",
+    "format": "OTF",
+    "size": 496596
+  },
+  {
+    "name": "GREEB",
+    "filename": "GREEB___.ttf",
+    "path": "GREEB___.ttf",
+    "category": "English",
+    "format": "TTF",
+    "size": 80252
+  },
+  {
+    "name": "GREETING",
+    "filename": "GREETING.ttf",
+    "path": "GREETING.ttf",
+    "category": "English",
+    "format": "TTF",
+    "size": 81096
+  },
+  {
+    "name": "hv custom",
+    "filename": "hv-custom.ttf",
+    "path": "hv-custom.ttf",
+    "category": "English",
+    "format": "TTF",
+    "size": 137104
+  },
+  {
+    "name": "KGFlavorAndFrames",
+    "filename": "KGFlavorAndFrames.ttf",
+    "path": "KGFlavorAndFrames.ttf",
+    "category": "English",
+    "format": "TTF",
+    "size": 34292
+  },
+  {
+    "name": "KGFlavorAndFramesFive",
+    "filename": "KGFlavorAndFramesFive.ttf",
+    "path": "KGFlavorAndFramesFive.ttf",
+    "category": "English",
+    "format": "TTF",
+    "size": 28560
+  },
+  {
+    "name": "Leafs",
+    "filename": "Leafs.ttf",
+    "path": "Leafs.ttf",
+    "category": "English",
+    "format": "TTF",
+    "size": 23796
+  },
+  {
+    "name": "LEMONMILK Bold",
+    "filename": "LEMONMILK-Bold.otf",
+    "path": "LEMONMILK-Bold.otf",
+    "category": "English",
+    "format": "OTF",
+    "size": 34596
+  },
+  {
+    "name": "LEMONMILK BoldItalic",
+    "filename": "LEMONMILK-BoldItalic.otf",
+    "path": "LEMONMILK-BoldItalic.otf",
+    "category": "English",
+    "format": "OTF",
+    "size": 34776
+  },
+  {
+    "name": "LEMONMILK Light",
+    "filename": "LEMONMILK-Light.otf",
+    "path": "LEMONMILK-Light.otf",
+    "category": "English",
+    "format": "OTF",
+    "size": 33652
+  },
+  {
+    "name": "LEMONMILK LightItalic",
+    "filename": "LEMONMILK-LightItalic.otf",
+    "path": "LEMONMILK-LightItalic.otf",
+    "category": "English",
+    "format": "OTF",
+    "size": 34496
+  },
+  {
+    "name": "LEMONMILK Medium",
+    "filename": "LEMONMILK-Medium.otf",
+    "path": "LEMONMILK-Medium.otf",
+    "category": "English",
+    "format": "OTF",
+    "size": 33760
+  },
+  {
+    "name": "LEMONMILK MediumItalic",
+    "filename": "LEMONMILK-MediumItalic.otf",
+    "path": "LEMONMILK-MediumItalic.otf",
+    "category": "English",
+    "format": "OTF",
+    "size": 33864
+  },
+  {
+    "name": "LEMONMILK Regular",
+    "filename": "LEMONMILK-Regular.otf",
+    "path": "LEMONMILK-Regular.otf",
+    "category": "English",
+    "format": "OTF",
+    "size": 34568
+  },
+  {
+    "name": "LEMONMILK RegularItalic",
+    "filename": "LEMONMILK-RegularItalic.otf",
+    "path": "LEMONMILK-RegularItalic.otf",
+    "category": "English",
+    "format": "OTF",
+    "size": 34816
+  },
+  {
+    "name": "Montserrat Black",
+    "filename": "Montserrat-Black.ttf",
+    "path": "Montserrat-Black.ttf",
+    "category": "English",
+    "format": "TTF",
+    "size": 257552
+  },
+  {
+    "name": "Montserrat BlackItalic",
+    "filename": "Montserrat-BlackItalic.ttf",
+    "path": "Montserrat-BlackItalic.ttf",
+    "category": "English",
+    "format": "TTF",
+    "size": 261732
+  },
+  {
+    "name": "Montserrat Bold",
+    "filename": "Montserrat-Bold.ttf",
+    "path": "Montserrat-Bold.ttf",
+    "category": "English",
+    "format": "TTF",
+    "size": 244468
+  },
+  {
+    "name": "Montserrat BoldItalic",
+    "filename": "Montserrat-BoldItalic.ttf",
+    "path": "Montserrat-BoldItalic.ttf",
+    "category": "English",
+    "format": "TTF",
+    "size": 249556
+  },
+  {
+    "name": "Montserrat ExtraBold",
+    "filename": "Montserrat-ExtraBold.ttf",
+    "path": "Montserrat-ExtraBold.ttf",
+    "category": "English",
+    "format": "TTF",
+    "size": 244868
+  },
+  {
+    "name": "Montserrat ExtraBoldItalic",
+    "filename": "Montserrat-ExtraBoldItalic.ttf",
+    "path": "Montserrat-ExtraBoldItalic.ttf",
+    "category": "English",
+    "format": "TTF",
+    "size": 249776
+  },
+  {
+    "name": "Montserrat ExtraLight",
+    "filename": "Montserrat-ExtraLight.ttf",
+    "path": "Montserrat-ExtraLight.ttf",
+    "category": "English",
+    "format": "TTF",
+    "size": 242128
+  },
+  {
+    "name": "Montserrat ExtraLightItalic",
+    "filename": "Montserrat-ExtraLightItalic.ttf",
+    "path": "Montserrat-ExtraLightItalic.ttf",
+    "category": "English",
+    "format": "TTF",
+    "size": 246176
+  },
+  {
+    "name": "Montserrat Italic",
+    "filename": "Montserrat-Italic.ttf",
+    "path": "Montserrat-Italic.ttf",
+    "category": "English",
+    "format": "TTF",
+    "size": 249088
+  },
+  {
+    "name": "Montserrat Light",
+    "filename": "Montserrat-Light.ttf",
+    "path": "Montserrat-Light.ttf",
+    "category": "English",
+    "format": "TTF",
+    "size": 242068
+  },
+  {
+    "name": "Montserrat LightItalic",
+    "filename": "Montserrat-LightItalic.ttf",
+    "path": "Montserrat-LightItalic.ttf",
+    "category": "English",
+    "format": "TTF",
+    "size": 246276
+  },
+  {
+    "name": "Montserrat Medium",
+    "filename": "Montserrat-Medium.ttf",
+    "path": "Montserrat-Medium.ttf",
+    "category": "English",
+    "format": "TTF",
+    "size": 243180
+  },
+  {
+    "name": "Montserrat MediumItalic",
+    "filename": "Montserrat-MediumItalic.ttf",
+    "path": "Montserrat-MediumItalic.ttf",
+    "category": "English",
+    "format": "TTF",
+    "size": 248044
+  },
+  {
+    "name": "Montserrat Regular",
+    "filename": "Montserrat-Regular.ttf",
+    "path": "Montserrat-Regular.ttf",
+    "category": "English",
+    "format": "TTF",
+    "size": 245708
+  },
+  {
+    "name": "Montserrat SemiBold",
+    "filename": "Montserrat-SemiBold.ttf",
+    "path": "Montserrat-SemiBold.ttf",
+    "category": "English",
+    "format": "TTF",
+    "size": 243816
+  },
+  {
+    "name": "Montserrat SemiBoldItalic",
+    "filename": "Montserrat-SemiBoldItalic.ttf",
+    "path": "Montserrat-SemiBoldItalic.ttf",
+    "category": "English",
+    "format": "TTF",
+    "size": 249192
+  },
+  {
+    "name": "Montserrat Thin",
+    "filename": "Montserrat-Thin.ttf",
+    "path": "Montserrat-Thin.ttf",
+    "category": "English",
+    "format": "TTF",
+    "size": 241436
+  },
+  {
+    "name": "Montserrat ThinItalic",
+    "filename": "Montserrat-ThinItalic.ttf",
+    "path": "Montserrat-ThinItalic.ttf",
+    "category": "English",
+    "format": "TTF",
+    "size": 245372
+  },
+  {
+    "name": "Mortised Ornaments Free",
+    "filename": "Mortised Ornaments Free.ttf",
+    "path": "Mortised Ornaments Free.ttf",
+    "category": "English",
+    "format": "TTF",
+    "size": 731144
+  },
+  {
+    "name": "No Fancy Name Grotesk Caps Bold",
+    "filename": "No Fancy Name Grotesk Caps Bold.ttf",
+    "path": "No Fancy Name Grotesk Caps Bold.ttf",
+    "category": "English",
+    "format": "TTF",
+    "size": 31648
+  },
+  {
+    "name": "nyala",
+    "filename": "nyala.ttf",
+    "path": "nyala.ttf",
+    "category": "English",
+    "format": "TTF",
+    "size": 438016
+  },
+  {
+    "name": "Panama Light",
+    "filename": "Panama-Light.otf",
+    "path": "Panama-Light.otf",
+    "category": "English",
+    "format": "OTF",
+    "size": 18864
+  },
+  {
+    "name": "passageway",
+    "filename": "passageway.otf",
+    "path": "passageway.otf",
+    "category": "English",
+    "format": "OTF",
+    "size": 197264
+  },
+  {
+    "name": "passagewaybd",
+    "filename": "passagewaybd.otf",
+    "path": "passagewaybd.otf",
+    "category": "English",
+    "format": "OTF",
+    "size": 216192
+  },
+  {
+    "name": "passagewaybdit",
+    "filename": "passagewaybdit.otf",
+    "path": "passagewaybdit.otf",
+    "category": "English",
+    "format": "OTF",
+    "size": 214716
+  },
+  {
+    "name": "passagewaybdsuit",
+    "filename": "passagewaybdsuit.otf",
+    "path": "passagewaybdsuit.otf",
+    "category": "English",
+    "format": "OTF",
+    "size": 214332
+  },
+  {
+    "name": "passagewayit",
+    "filename": "passagewayit.otf",
+    "path": "passagewayit.otf",
+    "category": "English",
+    "format": "OTF",
+    "size": 193344
+  },
+  {
+    "name": "passagewaylight",
+    "filename": "passagewaylight.otf",
+    "path": "passagewaylight.otf",
+    "category": "English",
+    "format": "OTF",
+    "size": 210548
+  },
+  {
+    "name": "passagewaylightit",
+    "filename": "passagewaylightit.otf",
+    "path": "passagewaylightit.otf",
+    "category": "English",
+    "format": "OTF",
+    "size": 207388
+  },
+  {
+    "name": "Precious",
+    "filename": "Precious.ttf",
+    "path": "Precious.ttf",
+    "category": "English",
+    "format": "TTF",
+    "size": 37928
+  },
+  {
+    "name": "ReklameScript Regular DEMO",
+    "filename": "ReklameScript-Regular_DEMO.otf",
+    "path": "ReklameScript-Regular_DEMO.otf",
+    "category": "English",
+    "format": "OTF",
+    "size": 16728
+  },
+  {
+    "name": "RemachineScript Personal Use",
+    "filename": "RemachineScript_Personal_Use.ttf",
+    "path": "RemachineScript_Personal_Use.ttf",
+    "category": "English",
+    "format": "TTF",
+    "size": 194008
+  },
+  {
+    "name": "SPORT RELIEF",
+    "filename": "SPORT RELIEF.ttf",
+    "path": "SPORT RELIEF.ttf",
+    "category": "English",
+    "format": "TTF",
+    "size": 256616
+  },
+  {
+    "name": "SughayerSeparates21 ZaKl",
+    "filename": "SughayerSeparates21-ZaKl.ttf",
+    "path": "SughayerSeparates21-ZaKl.ttf",
+    "category": "English",
+    "format": "TTF",
+    "size": 23592
+  },
+  {
+    "name": "Sukar Black",
+    "filename": "Sukar Black.ttf",
+    "path": "Sukar Black.ttf",
+    "category": "English",
+    "format": "TTF",
+    "size": 46784
+  },
+  {
+    "name": "Sukar Bold",
+    "filename": "Sukar Bold.ttf",
+    "path": "Sukar Bold.ttf",
+    "category": "English",
+    "format": "TTF",
+    "size": 47412
+  },
+  {
+    "name": "Sukar Regular",
+    "filename": "Sukar Regular.ttf",
+    "path": "Sukar Regular.ttf",
+    "category": "English",
+    "format": "TTF",
+    "size": 46832
+  },
+  {
+    "name": "SukarBlack",
+    "filename": "SukarBlack.otf",
+    "path": "SukarBlack.otf",
+    "category": "English",
+    "format": "OTF",
+    "size": 122060
+  },
+  {
+    "name": "SukarBlack",
+    "filename": "SukarBlack.ttf",
+    "path": "SukarBlack.ttf",
+    "category": "English",
+    "format": "TTF",
+    "size": 46784
+  },
+  {
+    "name": "SukarBold",
+    "filename": "SukarBold.otf",
+    "path": "SukarBold.otf",
+    "category": "English",
+    "format": "OTF",
+    "size": 123340
+  },
+  {
+    "name": "SukarBold",
+    "filename": "SukarBold.ttf",
+    "path": "SukarBold.ttf",
+    "category": "English",
+    "format": "TTF",
+    "size": 47412
+  },
+  {
+    "name": "SukarRegular",
+    "filename": "SukarRegular.otf",
+    "path": "SukarRegular.otf",
+    "category": "English",
+    "format": "OTF",
+    "size": 113060
+  },
+  {
+    "name": "SukarRegular",
+    "filename": "SukarRegular.ttf",
+    "path": "SukarRegular.ttf",
+    "category": "English",
+    "format": "TTF",
+    "size": 46832
+  },
+  {
+    "name": "TravelingTypewriter",
+    "filename": "TravelingTypewriter.ttf",
+    "path": "TravelingTypewriter.ttf",
+    "category": "English",
+    "format": "TTF",
+    "size": 85604
+  },
+  {
+    "name": "TT Masters DEMO Birds Regular",
+    "filename": "TT Masters DEMO Birds Regular.otf",
+    "path": "TT Masters DEMO Birds Regular.otf",
+    "category": "English",
+    "format": "OTF",
+    "size": 28320
+  },
+  {
+    "name": "TT Masters DEMO Black",
+    "filename": "TT Masters DEMO Black.otf",
+    "path": "TT Masters DEMO Black.otf",
+    "category": "English",
+    "format": "OTF",
+    "size": 27240
+  },
+  {
+    "name": "TT Masters DEMO Rough Thin",
+    "filename": "TT Masters DEMO Rough Thin.otf",
+    "path": "TT Masters DEMO Rough Thin.otf",
+    "category": "English",
+    "format": "OTF",
+    "size": 238244
+  },
+  {
+    "name": "Ventography Personal Use Only",
+    "filename": "Ventography_Personal_Use_Only.ttf",
+    "path": "Ventography_Personal_Use_Only.ttf",
+    "category": "English",
+    "format": "TTF",
+    "size": 188976
+  },
+  {
+    "name": "Victorian Free Ornaments Two",
+    "filename": "Victorian Free Ornaments Two.ttf",
+    "path": "Victorian Free Ornaments Two.ttf",
+    "category": "English",
+    "format": "TTF",
+    "size": 821256
+  },
+  {
+    "name": "DeliciousHandrawn Regular",
+    "filename": "DeliciousHandrawn-Regular.ttf",
+    "path": "Delicious_Handrawn/DeliciousHandrawn-Regular.ttf",
+    "category": "Handwritten",
+    "format": "TTF",
+    "size": 73972
+  },
+  {
+    "name": "GochiHand Regular",
+    "filename": "GochiHand-Regular.ttf",
+    "path": "Gochi_Hand/GochiHand-Regular.ttf",
+    "category": "Handwritten",
+    "format": "TTF",
+    "size": 35948
+  },
+  {
+    "name": "Handlee Regular",
+    "filename": "Handlee-Regular.ttf",
+    "path": "Handlee/Handlee-Regular.ttf",
+    "category": "Handwritten",
+    "format": "TTF",
+    "size": 37792
+  },
+  {
+    "name": "PatrickHand Regular",
+    "filename": "PatrickHand-Regular.ttf",
+    "path": "Patrick_Hand/PatrickHand-Regular.ttf",
+    "category": "Handwritten",
+    "format": "TTF",
+    "size": 212112
+  },
+  {
+    "name": "Akaash Bold",
+    "filename": "Akaash-Bold.ttf",
+    "path": "Hindi Fonts/Akaash-Bold.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 113788
+  },
+  {
+    "name": "AmbarKalmi",
+    "filename": "AmbarKalmi.ttf",
+    "path": "Hindi Fonts/AmbarKalmi.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 78724
+  },
+  {
+    "name": "Amit Normal",
+    "filename": "Amit Normal.ttf",
+    "path": "Hindi Fonts/Amit Normal.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 88204
+  },
+  {
+    "name": "Amita Bold",
+    "filename": "Amita-Bold.ttf",
+    "path": "Hindi Fonts/Amita-Bold.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 220448
+  },
+  {
+    "name": "Amita Regular",
+    "filename": "Amita-Regular.ttf",
+    "path": "Hindi Fonts/Amita-Regular.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 214968
+  },
+  {
+    "name": "Amrit Kuruti 1",
+    "filename": "Amrit Kuruti 1.ttf",
+    "path": "Hindi Fonts/Amrit Kuruti 1.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 41112
+  },
+  {
+    "name": "AMS Icons",
+    "filename": "AMS Icons.ttf",
+    "path": "HindiFonts/IndiaFont/AMS Icons.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 19892
+  },
+  {
+    "name": "Ananda Akchyar",
+    "filename": "Ananda Akchyar.ttf",
+    "path": "Hindi Fonts/Ananda Akchyar.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 90472
+  },
+  {
+    "name": "Ananda Devanagari Round",
+    "filename": "Ananda-Devanagari-Round.ttf",
+    "path": "Hindi Fonts/Ananda-Devanagari-Round.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 45636
+  },
+  {
+    "name": "Ananda Sumitra",
+    "filename": "Ananda Sumitra.ttf",
+    "path": "Hindi Fonts/Ananda Sumitra.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 100160
+  },
+  {
+    "name": "AnandaSansar",
+    "filename": "AnandaSansar.ttf",
+    "path": "Hindi Fonts/AnandaSansar.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 41140
+  },
+  {
+    "name": "AnmolLipiThick",
+    "filename": "AnmolLipiThick.ttf",
+    "path": "Hindi Fonts/AnmolLipiThick.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 42224
+  },
+  {
+    "name": "Anuradha",
+    "filename": "Anuradha.ttf",
+    "path": "Hindi Fonts/Anuradha.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 39740
+  },
+  {
+    "name": "aparaj",
+    "filename": "aparaj.ttf",
+    "path": "Hindi Fonts/aparaj.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 222356
+  },
+  {
+    "name": "baishali",
+    "filename": "baishali.ttf",
+    "path": "Hindi Fonts/baishali.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 53280
+  },
+  {
+    "name": "Balram.TTF",
+    "filename": "Balram.TTF",
+    "path": "Hindi Fonts/Balram.TTF",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 41528
+  },
+  {
+    "name": "Bhaskar",
+    "filename": "Bhaskar.ttf",
+    "path": "Hindi Fonts/Bhaskar.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 62900
+  },
+  {
+    "name": "Bulara Black",
+    "filename": "Bulara_Black.ttf",
+    "path": "Hindi Fonts/Bulara_Black.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 194168
+  },
+  {
+    "name": "ChatrikUni",
+    "filename": "ChatrikUni.ttf",
+    "path": "Hindi Fonts/ChatrikUni.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 81260
+  },
+  {
+    "name": "CV Ganesh",
+    "filename": "CV Ganesh.ttf",
+    "path": "Hindi Fonts/CV Ganesh.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 38956
+  },
+  {
+    "name": "Devanagari New Normal.ttf",
+    "filename": "Devanagari-New-Normal.ttf.eot",
+    "path": "Hindi Fonts/Devanagari-New-Normal.ttf.eot",
+    "category": "Hindi",
+    "format": "EOT",
+    "size": 76812
+  },
+  {
+    "name": "Devanagari New Normal.ttf",
+    "filename": "Devanagari-New-Normal.ttf.woff",
+    "path": "Hindi Fonts/Devanagari-New-Normal.ttf.woff",
+    "category": "Hindi",
+    "format": "WOFF",
+    "size": 44424
+  },
+  {
+    "name": "DevLys 010 Bold",
+    "filename": "DevLys 010 Bold.ttf",
+    "path": "Hindi Fonts/DevLys 010 Bold.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 66436
+  },
+  {
+    "name": "DevLys 020 Bold",
+    "filename": "DevLys 020 Bold.ttf",
+    "path": "Hindi Fonts/DevLys 020 Bold.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 72148
+  },
+  {
+    "name": "DevLys 040 Bold",
+    "filename": "DevLys 040 Bold.ttf",
+    "path": "Hindi Fonts/DevLys 040 Bold.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 75848
+  },
+  {
+    "name": "DevLys 050 Wide",
+    "filename": "DevLys 050 Wide.ttf",
+    "path": "Hindi Fonts/DevLys 050 Wide.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 64784
+  },
+  {
+    "name": "DevLys 060 Wide",
+    "filename": "DevLys 060 Wide.ttf",
+    "path": "Hindi Fonts/DevLys 060 Wide.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 65252
+  },
+  {
+    "name": "DevLys 090 Bold Italic",
+    "filename": "DevLys 090 Bold Italic.ttf",
+    "path": "Hindi Fonts/DevLys 090 Bold Italic.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 62048
+  },
+  {
+    "name": "DevLys 100 Bold",
+    "filename": "DevLys 100 Bold.ttf",
+    "path": "Hindi Fonts/DevLys 100 Bold.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 77024
+  },
+  {
+    "name": "DevLys 150",
+    "filename": "DevLys 150.ttf",
+    "path": "Hindi Fonts/DevLys 150.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 97388
+  },
+  {
+    "name": "DevLys 160",
+    "filename": "DevLys 160.ttf",
+    "path": "Hindi Fonts/DevLys 160.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 67004
+  },
+  {
+    "name": "DevLys 180",
+    "filename": "DevLys 180.ttf",
+    "path": "Hindi Fonts/DevLys 180.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 90152
+  },
+  {
+    "name": "DevLys 240",
+    "filename": "DevLys 240.ttf",
+    "path": "Hindi Fonts/DevLys 240.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 66964
+  },
+  {
+    "name": "DevLys 240 Condensed",
+    "filename": "DevLys 240 Condensed.ttf",
+    "path": "Hindi Fonts/DevLys 240 Condensed.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 66892
+  },
+  {
+    "name": "DevLys 240 Italic",
+    "filename": "DevLys 240 Italic.ttf",
+    "path": "Hindi Fonts/DevLys 240 Italic.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 68316
+  },
+  {
+    "name": "DevLys 240 Thin",
+    "filename": "DevLys 240 Thin.ttf",
+    "path": "Hindi Fonts/DevLys 240 Thin.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 67044
+  },
+  {
+    "name": "DevLys 240 Wide",
+    "filename": "DevLys 240 Wide.ttf",
+    "path": "Hindi Fonts/DevLys 240 Wide.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 68376
+  },
+  {
+    "name": "DV MEW Shree0711",
+    "filename": "DV_MEW_Shree0711.ttf",
+    "path": "Hindi Fonts/DV_MEW_Shree0711.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 60032
+  },
+  {
+    "name": "DV TTSurekh Normal",
+    "filename": "DV TTSurekh Normal.ttf",
+    "path": "Hindi Fonts/DV TTSurekh Normal.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 53280
+  },
+  {
+    "name": "Gurmukhi UCSB Uni",
+    "filename": "Gurmukhi-UCSB-Uni.ttf",
+    "path": "Hindi Fonts/Gurmukhi-UCSB-Uni.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 140956
+  },
+  {
+    "name": "Haha Regular",
+    "filename": "Haha Regular.ttf",
+    "path": "Hindi Fonts/Haha Regular.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 44604
+  },
+  {
+    "name": "Himalaya.TTF",
+    "filename": "Himalaya.TTF",
+    "path": "Hindi Fonts/Himalaya.TTF",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 43664
+  },
+  {
+    "name": "Icons",
+    "filename": "Icons.ttf",
+    "path": "HindiFonts/IndiaFont/Icons.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 21944
+  },
+  {
+    "name": "Kanika.TTF",
+    "filename": "Kanika.TTF",
+    "path": "Hindi Fonts/Kanika.TTF",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 45712
+  },
+  {
+    "name": "Khand Bold",
+    "filename": "Khand-Bold.ttf",
+    "path": "Hindi Fonts/Khand-Bold.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 336420
+  },
+  {
+    "name": "Khand Bold",
+    "filename": "Khand-Bold.ttf",
+    "path": "HindiFonts/Khand-Bold.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 356972
+  },
+  {
+    "name": "Khand Light",
+    "filename": "Khand-Light.ttf",
+    "path": "Hindi Fonts/Khand-Light.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 289948
+  },
+  {
+    "name": "Khand Light",
+    "filename": "Khand-Light.ttf",
+    "path": "HindiFonts/Khand-Light.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 304756
+  },
+  {
+    "name": "Khand Medium",
+    "filename": "Khand-Medium.ttf",
+    "path": "Hindi Fonts/Khand-Medium.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 307552
+  },
+  {
+    "name": "Khand Medium",
+    "filename": "Khand-Medium.ttf",
+    "path": "HindiFonts/Khand-Medium.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 328312
+  },
+  {
+    "name": "Khand Regular",
+    "filename": "Khand-Regular.ttf",
+    "path": "Hindi Fonts/Khand-Regular.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 297792
+  },
+  {
+    "name": "Khand Regular",
+    "filename": "Khand-Regular.ttf",
+    "path": "HindiFonts/Khand-Regular.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 315192
+  },
+  {
+    "name": "Khand SemiBold",
+    "filename": "Khand-SemiBold.ttf",
+    "path": "Hindi Fonts/Khand-SemiBold.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 331012
+  },
+  {
+    "name": "Khand SemiBold",
+    "filename": "Khand-SemiBold.ttf",
+    "path": "HindiFonts/Khand-SemiBold.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 347108
+  },
+  {
+    "name": "Kruti Dev 500",
+    "filename": "Kruti Dev 500.ttf",
+    "path": "Hindi Fonts/Kruti Dev 500.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 55536
+  },
+  {
+    "name": "Kruti Dev 680",
+    "filename": "Kruti Dev 680.ttf",
+    "path": "Hindi Fonts/Kruti Dev 680.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 48692
+  },
+  {
+    "name": "Kruti Dev 710",
+    "filename": "Kruti Dev 710.ttf",
+    "path": "Hindi Fonts/Kruti Dev 710.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 49008
+  },
+  {
+    "name": "Kruti Dev Display 490",
+    "filename": "Kruti Dev Display 490.ttf",
+    "path": "Hindi Fonts/Kruti Dev Display 490.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 23324
+  },
+  {
+    "name": "Krutidev 011.TTF",
+    "filename": "Krutidev_011.TTF",
+    "path": "Hindi Fonts/Krutidev_011.TTF",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 66384
+  },
+  {
+    "name": "Krutidev 130 condensed.TTF",
+    "filename": "Krutidev_130_condensed.TTF",
+    "path": "Hindi Fonts/Krutidev_130_condensed.TTF",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 70876
+  },
+  {
+    "name": "Krutidev 130 thin.TTF",
+    "filename": "Krutidev_130_thin.TTF",
+    "path": "Hindi Fonts/Krutidev_130_thin.TTF",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 70548
+  },
+  {
+    "name": "Krutidev 130 wide.TTF",
+    "filename": "Krutidev_130_wide.TTF",
+    "path": "Hindi Fonts/Krutidev_130_wide.TTF",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 70976
+  },
+  {
+    "name": "Manishau Regular",
+    "filename": "Manishau Regular.ttf",
+    "path": "Hindi Fonts/Manishau Regular.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 42256
+  },
+  {
+    "name": "Modak Regular 1",
+    "filename": "Modak-Regular_1.ttf",
+    "path": "Hindi Fonts/Modak-Regular_1.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 650188
+  },
+  {
+    "name": "Patrika",
+    "filename": "Patrika.ttf",
+    "path": "Hindi Fonts/Patrika.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 61056
+  },
+  {
+    "name": "Poppins Black",
+    "filename": "Poppins-Black.ttf",
+    "path": "Hindi Fonts/Poppins-Black.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 151340
+  },
+  {
+    "name": "Poppins BlackItalic",
+    "filename": "Poppins-BlackItalic.ttf",
+    "path": "Hindi Fonts/Poppins-BlackItalic.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 171544
+  },
+  {
+    "name": "Poppins Bold",
+    "filename": "Poppins-Bold.ttf",
+    "path": "Hindi Fonts/Poppins-Bold.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 153900
+  },
+  {
+    "name": "Poppins BoldItalic",
+    "filename": "Poppins-BoldItalic.ttf",
+    "path": "Hindi Fonts/Poppins-BoldItalic.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 176552
+  },
+  {
+    "name": "Poppins ExtraBold",
+    "filename": "Poppins-ExtraBold.ttf",
+    "path": "Hindi Fonts/Poppins-ExtraBold.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 152712
+  },
+  {
+    "name": "Poppins ExtraBoldItalic",
+    "filename": "Poppins-ExtraBoldItalic.ttf",
+    "path": "Hindi Fonts/Poppins-ExtraBoldItalic.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 173868
+  },
+  {
+    "name": "Poppins ExtraLight",
+    "filename": "Poppins-ExtraLight.ttf",
+    "path": "Hindi Fonts/Poppins-ExtraLight.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 161404
+  },
+  {
+    "name": "Poppins ExtraLightItalic",
+    "filename": "Poppins-ExtraLightItalic.ttf",
+    "path": "Hindi Fonts/Poppins-ExtraLightItalic.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 186124
+  },
+  {
+    "name": "Poppins Italic",
+    "filename": "Poppins-Italic.ttf",
+    "path": "Hindi Fonts/Poppins-Italic.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 181972
+  },
+  {
+    "name": "Poppins Light",
+    "filename": "Poppins-Light.ttf",
+    "path": "Hindi Fonts/Poppins-Light.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 159848
+  },
+  {
+    "name": "Poppins LightItalic",
+    "filename": "Poppins-LightItalic.ttf",
+    "path": "Hindi Fonts/Poppins-LightItalic.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 184420
+  },
+  {
+    "name": "Poppins Medium",
+    "filename": "Poppins-Medium.ttf",
+    "path": "Hindi Fonts/Poppins-Medium.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 156480
+  },
+  {
+    "name": "Poppins MediumItalic",
+    "filename": "Poppins-MediumItalic.ttf",
+    "path": "Hindi Fonts/Poppins-MediumItalic.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 180412
+  },
+  {
+    "name": "Poppins Regular",
+    "filename": "Poppins-Regular.ttf",
+    "path": "Hindi Fonts/Poppins-Regular.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 158192
+  },
+  {
+    "name": "Poppins SemiBold",
+    "filename": "Poppins-SemiBold.ttf",
+    "path": "Hindi Fonts/Poppins-SemiBold.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 155192
+  },
+  {
+    "name": "Poppins SemiBoldItalic",
+    "filename": "Poppins-SemiBoldItalic.ttf",
+    "path": "Hindi Fonts/Poppins-SemiBoldItalic.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 178548
+  },
+  {
+    "name": "Poppins Thin",
+    "filename": "Poppins-Thin.ttf",
+    "path": "Hindi Fonts/Poppins-Thin.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 161600
+  },
+  {
+    "name": "Poppins ThinItalic",
+    "filename": "Poppins-ThinItalic.ttf",
+    "path": "Hindi Fonts/Poppins-ThinItalic.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 186992
+  },
+  {
+    "name": "RozhaOne Regular",
+    "filename": "RozhaOne-Regular.ttf",
+    "path": "Hindi Fonts/RozhaOne-Regular.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 322920
+  },
+  {
+    "name": "Sarpanch Black",
+    "filename": "Sarpanch-Black.ttf",
+    "path": "Hindi Fonts/Sarpanch-Black.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 299824
+  },
+  {
+    "name": "Sarpanch Bold",
+    "filename": "Sarpanch-Bold.ttf",
+    "path": "Hindi Fonts/Sarpanch-Bold.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 292264
+  },
+  {
+    "name": "Sarpanch ExtraBold",
+    "filename": "Sarpanch-ExtraBold.ttf",
+    "path": "Hindi Fonts/Sarpanch-ExtraBold.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 299432
+  },
+  {
+    "name": "Sarpanch Medium",
+    "filename": "Sarpanch-Medium.ttf",
+    "path": "Hindi Fonts/Sarpanch-Medium.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 292780
+  },
+  {
+    "name": "Sarpanch Regular",
+    "filename": "Sarpanch-Regular.ttf",
+    "path": "Hindi Fonts/Sarpanch-Regular.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 290580
+  },
+  {
+    "name": "Sarpanch SemiBold",
+    "filename": "Sarpanch-SemiBold.ttf",
+    "path": "Hindi Fonts/Sarpanch-SemiBold.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 293240
+  },
+  {
+    "name": "Shubhanjali.TTF",
+    "filename": "Shubhanjali.TTF",
+    "path": "Hindi Fonts/Shubhanjali.TTF",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 41484
+  },
+  {
+    "name": "TAJAWAL BLACK.TTF",
+    "filename": "TAJAWAL-BLACK.TTF",
+    "path": "HindiFonts/IndiaFont/TAJAWAL-BLACK.TTF",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 55160
+  },
+  {
+    "name": "TAJAWAL BOLD.TTF",
+    "filename": "TAJAWAL-BOLD.TTF",
+    "path": "HindiFonts/IndiaFont/TAJAWAL-BOLD.TTF",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 56044
+  },
+  {
+    "name": "TAJAWAL EXTRABOLD.TTF",
+    "filename": "TAJAWAL-EXTRABOLD.TTF",
+    "path": "HindiFonts/IndiaFont/TAJAWAL-EXTRABOLD.TTF",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 55732
+  },
+  {
+    "name": "TAJAWAL EXTRALIGHT.TTF",
+    "filename": "TAJAWAL-EXTRALIGHT.TTF",
+    "path": "HindiFonts/IndiaFont/TAJAWAL-EXTRALIGHT.TTF",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 51884
+  },
+  {
+    "name": "TAJAWAL LIGHT.TTF",
+    "filename": "TAJAWAL-LIGHT.TTF",
+    "path": "HindiFonts/IndiaFont/TAJAWAL-LIGHT.TTF",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 56768
+  },
+  {
+    "name": "TAJAWAL MEDIUM.TTF",
+    "filename": "TAJAWAL-MEDIUM.TTF",
+    "path": "HindiFonts/IndiaFont/TAJAWAL-MEDIUM.TTF",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 56808
+  },
+  {
+    "name": "TAJAWAL REGULAR",
+    "filename": "TAJAWAL-REGULAR.ttf",
+    "path": "HindiFonts/IndiaFont/TAJAWAL-REGULAR.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 55560
+  },
+  {
+    "name": "ufonts.com nyala",
+    "filename": "ufonts.com_nyala.ttf",
+    "path": "Hindi Fonts/ufonts.com_nyala.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 438016
+  },
+  {
+    "name": "v3icons",
+    "filename": "v3icons.ttf",
+    "path": "HindiFonts/IndiaFont/v3icons.ttf",
+    "category": "Hindi",
+    "format": "TTF",
+    "size": 22180
+  },
+  {
+    "name": "CIRKLEDINGZ.TTF",
+    "filename": "CIRKLEDINGZ.TTF",
+    "path": "Mandala/CIRKLEDINGZ.TTF",
+    "category": "Mandala",
+    "format": "TTF",
+    "size": 39632
+  },
+  {
+    "name": "font frames",
+    "filename": "font frames.ttf",
+    "path": "Mandala/font frames.ttf",
+    "category": "Mandala",
+    "format": "TTF",
+    "size": 230764
+  },
+  {
+    "name": "Kembang",
+    "filename": "Kembang.ttf",
+    "path": "Mandala/Kembang.ttf",
+    "category": "Mandala",
+    "format": "TTF",
+    "size": 62248
+  },
+  {
+    "name": "KR Kat's Flowers 2",
+    "filename": "KR Kat's Flowers 2.ttf",
+    "path": "Mandala/KR Kat's Flowers 2.ttf",
+    "category": "Mandala",
+    "format": "TTF",
+    "size": 58732
+  },
+  {
+    "name": "KR Kinda Flakey",
+    "filename": "KR Kinda Flakey.ttf",
+    "path": "Mandala/KR Kinda Flakey.ttf",
+    "category": "Mandala",
+    "format": "TTF",
+    "size": 78344
+  },
+  {
+    "name": "Mandalesque",
+    "filename": "Mandalesque.ttf",
+    "path": "Mandala/Mandalesque.ttf",
+    "category": "Mandala",
+    "format": "TTF",
+    "size": 311360
+  },
+  {
+    "name": "MEADINGS",
+    "filename": "MEADINGS.ttf",
+    "path": "Mandala/MEADINGS.ttf",
+    "category": "Mandala",
+    "format": "TTF",
+    "size": 201504
+  },
+  {
+    "name": "Akaash",
+    "filename": "Akaash.ttf",
+    "path": "PunjabiFonts/Akaash.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 123240
+  },
+  {
+    "name": "Akaash Bold",
+    "filename": "Akaash-Bold.ttf",
+    "path": "PunjabiFonts/Akaash-Bold.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 113788
+  },
+  {
+    "name": "AmbarKalmi",
+    "filename": "AmbarKalmi.ttf",
+    "path": "PunjabiFonts/AmbarKalmi.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 78724
+  },
+  {
+    "name": "AmbarLight",
+    "filename": "AmbarLight.ttf",
+    "path": "PunjabiFonts/AmbarLight.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 80472
+  },
+  {
+    "name": "AmbarLight Bold",
+    "filename": "AmbarLight-Bold.ttf",
+    "path": "PunjabiFonts/AmbarLight-Bold.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 78788
+  },
+  {
+    "name": "AmbarNarrow",
+    "filename": "AmbarNarrow.ttf",
+    "path": "PunjabiFonts/AmbarNarrow.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 81632
+  },
+  {
+    "name": "AmbarNeon",
+    "filename": "AmbarNeon.ttf",
+    "path": "PunjabiFonts/AmbarNeon.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 117060
+  },
+  {
+    "name": "AmbarOutlined",
+    "filename": "AmbarOutlined.ttf",
+    "path": "PunjabiFonts/AmbarOutlined.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 102708
+  },
+  {
+    "name": "AmbarRaised",
+    "filename": "AmbarRaised.ttf",
+    "path": "PunjabiFonts/AmbarRaised.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 120092
+  },
+  {
+    "name": "AmbarShadow",
+    "filename": "AmbarShadow.ttf",
+    "path": "PunjabiFonts/AmbarShadow.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 141560
+  },
+  {
+    "name": "AmbarSlim",
+    "filename": "AmbarSlim.ttf",
+    "path": "PunjabiFonts/AmbarSlim.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 78208
+  },
+  {
+    "name": "AmbarUbhri",
+    "filename": "AmbarUbhri.ttf",
+    "path": "PunjabiFonts/AmbarUbhri.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 120536
+  },
+  {
+    "name": "AnmolUni",
+    "filename": "AnmolUni.ttf",
+    "path": "PunjabiFonts/AnmolUni.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 143256
+  },
+  {
+    "name": "AnmolUni Bold",
+    "filename": "AnmolUni-Bold .ttf",
+    "path": "PunjabiFonts/AnmolUni-Bold .ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 131752
+  },
+  {
+    "name": "AnmolUni Bold",
+    "filename": "AnmolUni-Bold.ttf",
+    "path": "PunjabiFonts/AnmolUni-Bold.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 131752
+  },
+  {
+    "name": "AnmolUniBani",
+    "filename": "AnmolUniBani.ttf",
+    "path": "PunjabiFonts/AnmolUniBani.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 147432
+  },
+  {
+    "name": "AnmolUniBani Bold",
+    "filename": "AnmolUniBani-Bold.ttf",
+    "path": "PunjabiFonts/AnmolUniBani-Bold.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 136060
+  },
+  {
+    "name": "AnmolUniBaniHeavy",
+    "filename": "AnmolUniBaniHeavy.ttf",
+    "path": "PunjabiFonts/AnmolUniBaniHeavy.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 155688
+  },
+  {
+    "name": "AnmolUniHeavy",
+    "filename": "AnmolUniHeavy.ttf",
+    "path": "PunjabiFonts/AnmolUniHeavy.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 173772
+  },
+  {
+    "name": "BalooPaaji2 Bold",
+    "filename": "BalooPaaji2-Bold.ttf",
+    "path": "PunjabiFonts/BalooPaaji2-Bold.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 308228
+  },
+  {
+    "name": "BalooPaaji2 ExtraBold",
+    "filename": "BalooPaaji2-ExtraBold.ttf",
+    "path": "PunjabiFonts/BalooPaaji2-ExtraBold.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 329968
+  },
+  {
+    "name": "BalooPaaji2 Medium",
+    "filename": "BalooPaaji2-Medium.ttf",
+    "path": "PunjabiFonts/BalooPaaji2-Medium.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 293864
+  },
+  {
+    "name": "BalooPaaji2 Regular",
+    "filename": "BalooPaaji2-Regular.ttf",
+    "path": "PunjabiFonts/BalooPaaji2-Regular.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 286744
+  },
+  {
+    "name": "BalooPaaji2 SemiBold",
+    "filename": "BalooPaaji2-SemiBold.ttf",
+    "path": "PunjabiFonts/BalooPaaji2-SemiBold.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 309404
+  },
+  {
+    "name": "bulara 5",
+    "filename": "bulara_5.ttf",
+    "path": "PunjabiFonts/bulara_5.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 126056
+  },
+  {
+    "name": "bulara 6",
+    "filename": "bulara_6.ttf",
+    "path": "PunjabiFonts/bulara_6.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 161204
+  },
+  {
+    "name": "bulara 8",
+    "filename": "bulara_8.ttf",
+    "path": "PunjabiFonts/bulara_8.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 163292
+  },
+  {
+    "name": "bulara 9",
+    "filename": "bulara_9.ttf",
+    "path": "PunjabiFonts/bulara_9.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 194168
+  },
+  {
+    "name": "bularab5",
+    "filename": "bularab5.ttf",
+    "path": "PunjabiFonts/bularab5.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 319112
+  },
+  {
+    "name": "bularah5",
+    "filename": "bularah5.ttf",
+    "path": "PunjabiFonts/bularah5.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 232036
+  },
+  {
+    "name": "bularah7",
+    "filename": "bularah7.ttf",
+    "path": "PunjabiFonts/bularah7.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 262032
+  },
+  {
+    "name": "bularao5",
+    "filename": "bularao5.ttf",
+    "path": "PunjabiFonts/bularao5.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 232052
+  },
+  {
+    "name": "bularap5",
+    "filename": "bularap5.ttf",
+    "path": "PunjabiFonts/bularap5.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 162424
+  },
+  {
+    "name": "ChatrikUni",
+    "filename": "ChatrikUni.ttf",
+    "path": "PunjabiFonts/ChatrikUni.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 81260
+  },
+  {
+    "name": "grvt 00",
+    "filename": "grvt__00.ttf",
+    "path": "PunjabiFonts/grvt__00.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 28712
+  },
+  {
+    "name": "grvt 01",
+    "filename": "grvt__01.ttf",
+    "path": "PunjabiFonts/grvt__01.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 31684
+  },
+  {
+    "name": "grvt 02",
+    "filename": "grvt__02.ttf",
+    "path": "PunjabiFonts/grvt__02.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 32712
+  },
+  {
+    "name": "grvt 03",
+    "filename": "grvt__03.ttf",
+    "path": "PunjabiFonts/grvt__03.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 32360
+  },
+  {
+    "name": "grvt 10",
+    "filename": "grvt__10.ttf",
+    "path": "PunjabiFonts/grvt__10.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 30428
+  },
+  {
+    "name": "grvt 12",
+    "filename": "grvt__12.ttf",
+    "path": "PunjabiFonts/grvt__12.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 27308
+  },
+  {
+    "name": "grvt 14",
+    "filename": "grvt__14.ttf",
+    "path": "PunjabiFonts/grvt__14.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 31032
+  },
+  {
+    "name": "grvt 15",
+    "filename": "grvt__15.ttf",
+    "path": "PunjabiFonts/grvt__15.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 26840
+  },
+  {
+    "name": "grvt 16",
+    "filename": "grvt__16.ttf",
+    "path": "PunjabiFonts/grvt__16.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 29000
+  },
+  {
+    "name": "grvt 24",
+    "filename": "grvt__24.ttf",
+    "path": "PunjabiFonts/grvt__24.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 30652
+  },
+  {
+    "name": "grvt 27",
+    "filename": "grvt__27.ttf",
+    "path": "PunjabiFonts/grvt__27.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 30352
+  },
+  {
+    "name": "grvt 28",
+    "filename": "grvt__28.ttf",
+    "path": "PunjabiFonts/grvt__28.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 26808
+  },
+  {
+    "name": "grvt 30",
+    "filename": "grvt__30.ttf",
+    "path": "PunjabiFonts/grvt__30.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 27748
+  },
+  {
+    "name": "grvt 32",
+    "filename": "grvt__32.ttf",
+    "path": "PunjabiFonts/grvt__32.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 27276
+  },
+  {
+    "name": "grvt 34",
+    "filename": "grvt__34.ttf",
+    "path": "PunjabiFonts/grvt__34.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 28948
+  },
+  {
+    "name": "grvt 37",
+    "filename": "grvt__37.ttf",
+    "path": "PunjabiFonts/grvt__37.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 27736
+  },
+  {
+    "name": "grvt 39",
+    "filename": "grvt__39.ttf",
+    "path": "PunjabiFonts/grvt__39.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 26964
+  },
+  {
+    "name": "grvt 44",
+    "filename": "grvt__44.ttf",
+    "path": "PunjabiFonts/grvt__44.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 28260
+  },
+  {
+    "name": "grvt 47",
+    "filename": "grvt__47.ttf",
+    "path": "PunjabiFonts/grvt__47.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 27656
+  },
+  {
+    "name": "grvt 49",
+    "filename": "grvt__49.ttf",
+    "path": "PunjabiFonts/grvt__49.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 27464
+  },
+  {
+    "name": "grvt 50",
+    "filename": "grvt__50.ttf",
+    "path": "PunjabiFonts/grvt__50.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 31432
+  },
+  {
+    "name": "grvt 51",
+    "filename": "grvt__51.ttf",
+    "path": "PunjabiFonts/grvt__51.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 31392
+  },
+  {
+    "name": "grvt 52",
+    "filename": "grvt__52.ttf",
+    "path": "PunjabiFonts/grvt__52.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 30788
+  },
+  {
+    "name": "grvt 53",
+    "filename": "grvt__53.ttf",
+    "path": "PunjabiFonts/grvt__53.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 30752
+  },
+  {
+    "name": "grvt 54",
+    "filename": "grvt__54.ttf",
+    "path": "PunjabiFonts/grvt__54.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 30944
+  },
+  {
+    "name": "grvt 55",
+    "filename": "grvt__55.ttf",
+    "path": "PunjabiFonts/grvt__55.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 30972
+  },
+  {
+    "name": "grvt 56",
+    "filename": "grvt__56.ttf",
+    "path": "PunjabiFonts/grvt__56.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 30520
+  },
+  {
+    "name": "grvt 57",
+    "filename": "grvt__57.ttf",
+    "path": "PunjabiFonts/grvt__57.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 30408
+  },
+  {
+    "name": "grvt 58",
+    "filename": "grvt__58.ttf",
+    "path": "PunjabiFonts/grvt__58.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 30948
+  },
+  {
+    "name": "grvt 59",
+    "filename": "grvt__59.ttf",
+    "path": "PunjabiFonts/grvt__59.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 31012
+  },
+  {
+    "name": "grvt 64",
+    "filename": "grvt__64.ttf",
+    "path": "PunjabiFonts/grvt__64.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 28240
+  },
+  {
+    "name": "grvt 65",
+    "filename": "grvt__65.ttf",
+    "path": "PunjabiFonts/grvt__65.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 28104
+  },
+  {
+    "name": "grvt 67",
+    "filename": "grvt__67.ttf",
+    "path": "PunjabiFonts/grvt__67.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 27656
+  },
+  {
+    "name": "grvt 69",
+    "filename": "grvt__69.ttf",
+    "path": "PunjabiFonts/grvt__69.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 27388
+  },
+  {
+    "name": "grvt 70",
+    "filename": "grvt__70.ttf",
+    "path": "PunjabiFonts/grvt__70.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 28720
+  },
+  {
+    "name": "grvt 72",
+    "filename": "grvt__72.ttf",
+    "path": "PunjabiFonts/grvt__72.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 28164
+  },
+  {
+    "name": "grvt 74",
+    "filename": "grvt__74.ttf",
+    "path": "PunjabiFonts/grvt__74.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 28440
+  },
+  {
+    "name": "grvt 77",
+    "filename": "grvt__77.ttf",
+    "path": "PunjabiFonts/grvt__77.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 28372
+  },
+  {
+    "name": "grvt 79",
+    "filename": "grvt__79.ttf",
+    "path": "PunjabiFonts/grvt__79.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 27868
+  },
+  {
+    "name": "grvt 84",
+    "filename": "grvt__84.ttf",
+    "path": "PunjabiFonts/grvt__84.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 28588
+  },
+  {
+    "name": "grvt 87",
+    "filename": "grvt__87.ttf",
+    "path": "PunjabiFonts/grvt__87.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 28492
+  },
+  {
+    "name": "grvt 89",
+    "filename": "grvt__89.ttf",
+    "path": "PunjabiFonts/grvt__89.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 28296
+  },
+  {
+    "name": "grvt 90",
+    "filename": "grvt__90.ttf",
+    "path": "PunjabiFonts/grvt__90.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 29976
+  },
+  {
+    "name": "grvt 92",
+    "filename": "grvt__92.ttf",
+    "path": "PunjabiFonts/grvt__92.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 29388
+  },
+  {
+    "name": "grvt 93",
+    "filename": "grvt__93.ttf",
+    "path": "PunjabiFonts/grvt__93.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 29592
+  },
+  {
+    "name": "grvt 94",
+    "filename": "grvt__94.ttf",
+    "path": "PunjabiFonts/grvt__94.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 29728
+  },
+  {
+    "name": "grvt 97",
+    "filename": "grvt__97.ttf",
+    "path": "PunjabiFonts/grvt__97.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 29660
+  },
+  {
+    "name": "grvt 99",
+    "filename": "grvt__99.ttf",
+    "path": "PunjabiFonts/grvt__99.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 29920
+  },
+  {
+    "name": "gubara 0",
+    "filename": "gubara_0.ttf",
+    "path": "PunjabiFonts/gubara_0.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 54612
+  },
+  {
+    "name": "gubara 4",
+    "filename": "gubara_4.ttf",
+    "path": "PunjabiFonts/gubara_4.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 63900
+  },
+  {
+    "name": "gubara 5",
+    "filename": "gubara_5.ttf",
+    "path": "PunjabiFonts/gubara_5.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 63064
+  },
+  {
+    "name": "gubara 6",
+    "filename": "gubara_6.ttf",
+    "path": "PunjabiFonts/gubara_6.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 61980
+  },
+  {
+    "name": "Gurmukhi UCSB Uni",
+    "filename": "Gurmukhi-UCSB-Uni.ttf",
+    "path": "PunjabiFonts/Gurmukhi-UCSB-Uni.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 140956
+  },
+  {
+    "name": "MuktaMahee Bold",
+    "filename": "MuktaMahee-Bold.ttf",
+    "path": "PunjabiFonts/MuktaMahee-Bold.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 181180
+  },
+  {
+    "name": "MuktaMahee ExtraBold",
+    "filename": "MuktaMahee-ExtraBold.ttf",
+    "path": "PunjabiFonts/MuktaMahee-ExtraBold.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 179344
+  },
+  {
+    "name": "MuktaMahee ExtraLight",
+    "filename": "MuktaMahee-ExtraLight.ttf",
+    "path": "PunjabiFonts/MuktaMahee-ExtraLight.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 180308
+  },
+  {
+    "name": "MuktaMahee Light",
+    "filename": "MuktaMahee-Light.ttf",
+    "path": "PunjabiFonts/MuktaMahee-Light.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 175332
+  },
+  {
+    "name": "MuktaMahee Medium",
+    "filename": "MuktaMahee-Medium.ttf",
+    "path": "PunjabiFonts/MuktaMahee-Medium.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 175216
+  },
+  {
+    "name": "MuktaMahee Regular",
+    "filename": "MuktaMahee-Regular.ttf",
+    "path": "PunjabiFonts/MuktaMahee-Regular.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 176832
+  },
+  {
+    "name": "MuktaMahee SemiBold",
+    "filename": "MuktaMahee-SemiBold.ttf",
+    "path": "PunjabiFonts/MuktaMahee-SemiBold.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 176164
+  },
+  {
+    "name": "Oankaar",
+    "filename": "Oankaar.ttf",
+    "path": "PunjabiFonts/Oankaar.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 136384
+  },
+  {
+    "name": "raaj 1",
+    "filename": "raaj___1.ttf",
+    "path": "PunjabiFonts/raaj___1.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 206696
+  },
+  {
+    "name": "raaj 3",
+    "filename": "raaj___3.ttf",
+    "path": "PunjabiFonts/raaj___3.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 145292
+  },
+  {
+    "name": "raaj 5",
+    "filename": "raaj___5.ttf",
+    "path": "PunjabiFonts/raaj___5.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 155912
+  },
+  {
+    "name": "raaj 7",
+    "filename": "raaj___7.ttf",
+    "path": "PunjabiFonts/raaj___7.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 141360
+  },
+  {
+    "name": "raaj 9",
+    "filename": "raaj___9.ttf",
+    "path": "PunjabiFonts/raaj___9.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 140620
+  },
+  {
+    "name": "raaj s2",
+    "filename": "raaj__s2.ttf",
+    "path": "PunjabiFonts/raaj__s2.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 225652
+  },
+  {
+    "name": "raaj s5",
+    "filename": "raaj__s5.ttf",
+    "path": "PunjabiFonts/raaj__s5.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 149348
+  },
+  {
+    "name": "SAMAN .TTF",
+    "filename": "SAMAN___.TTF",
+    "path": "PunjabiFonts/SAMAN___.TTF",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 59784
+  },
+  {
+    "name": "Top Secret Stamp",
+    "filename": "Top Secret Stamp.ttf",
+    "path": "PunjabiFonts/Top Secret Stamp.ttf",
+    "category": "Punjabi",
+    "format": "TTF",
+    "size": 574556
+  },
+  {
+    "name": "Boots&Spurs personal use only",
+    "filename": "Boots&Spurs_personal_use_only.ttf",
+    "path": "Vintage/Boots&Spurs_personal_use_only.ttf",
+    "category": "Vintage",
+    "format": "TTF",
+    "size": 1372116
+  },
+  {
+    "name": "Cowboy Cadaver",
+    "filename": "Cowboy Cadaver.ttf",
+    "path": "Vintage/Cowboy Cadaver.ttf",
+    "category": "Vintage",
+    "format": "TTF",
+    "size": 168996
+  },
+  {
+    "name": "IFC INSANE RODEO",
+    "filename": "IFC INSANE RODEO.ttf",
+    "path": "Vintage/IFC INSANE RODEO.ttf",
+    "category": "Vintage",
+    "format": "TTF",
+    "size": 61704
+  },
+  {
+    "name": "IFC INSANE RODEO BOLD Bold",
+    "filename": "IFC INSANE RODEO BOLD Bold.ttf",
+    "path": "Vintage/IFC INSANE RODEO BOLD Bold.ttf",
+    "category": "Vintage",
+    "format": "TTF",
+    "size": 60904
+  },
+  {
+    "name": "TEXAT BOLD PERSONAL USE",
+    "filename": "TEXAT BOLD PERSONAL USE___.otf",
+    "path": "Vintage/TEXAT BOLD PERSONAL USE___.otf",
+    "category": "Vintage",
+    "format": "OTF",
+    "size": 60852
+  }
+]

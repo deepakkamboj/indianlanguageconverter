@@ -17,7 +17,9 @@ import {
   MessageSquare,
   FileText,
   Code,
-  Video
+  Video,
+  Image,
+  Type
 } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { Button } from "@/components/ui/button";
@@ -97,6 +99,16 @@ const toolsItems = [
     title: "JSON Viewer",
     href: "/tools/json-viewer",
     icon: Code,
+  },
+  {
+    title: "Logo Downloader",
+    href: "/tools/logo-downloader",
+    icon: Image,
+  },
+  {
+    title: "Fonts",
+    href: "/tools/fonts",
+    icon: Type,
   },
 ];
 
