@@ -10,7 +10,6 @@ import {
   PanelLeftClose,
   PanelLeft,
   Wrench,
-
   Smile,
   LinkedinIcon,
   BoldIcon,
@@ -19,7 +18,8 @@ import {
   Code,
   Video,
   Image,
-  Type
+  Type,
+  Cpu
 } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { Button } from "@/components/ui/button";
@@ -109,6 +109,11 @@ const toolsItems = [
     title: "Fonts",
     href: "/tools/fonts",
     icon: Type,
+  },
+  {
+    title: "AI Catalog",
+    href: "/tools/ai-catalog",
+    icon: Cpu,
   },
 ];
 
